@@ -1,0 +1,4 @@
+hello from the text file
+my cat name is mushu
+my other cat is called poki 
+bye!
