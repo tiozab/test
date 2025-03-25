@@ -5,5 +5,6 @@
 *salt
 *chopped tomato
 ## instructions
-*cut avocado and put avocado into a bowl
+*get kernel out and put into pieces, then put into a bowl
+
 
